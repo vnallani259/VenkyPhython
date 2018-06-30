@@ -1,0 +1,5 @@
+x=input('Please enter some text:')
+y=input('please enter some text')
+x=int(x)
+y=int(y)
+print(x+y)

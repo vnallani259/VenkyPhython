@@ -1,0 +1,6 @@
+x=eval(input('entry x'))
+print(x)
+print(type(x))
+y=eval(input('entry y'))
+print(y)
+print(type(y))
