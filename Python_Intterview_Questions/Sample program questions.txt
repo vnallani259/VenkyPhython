@@ -1,0 +1,24 @@
+http://www.techbeamers.com/python-programming-interview-questions-with-answers/
+
+
+
+What are the core default modules available in Python? List down a few of them?
+Why is <__init__.py> module used for?
+What is a negative index in Python?
+What is Pickling and how does it different from Unpickling?
+What is slicing in Python? Explain with example.
+What are the different ways to generate random numbers in Python?
+Why is the “pass” keyword used for in Python?
+What are iterators in Python?
+What are generators in Python?
+How will you run a subprocess or an external program with arguments in Python?
+How will you remove the duplicate elements from the given list?
+How will you print the sum of numbers starting from 1 to 100 (inclusive of both)?
+What is the best approach to store a list of an employee’s first and last names?
+Does Python allow arguments Pass by Value or Pass by Reference?
+What are the different methods Python provides for copying an object?
+How will you convert a string to a number in Python?
+How will you set a global variable inside a function?
+How will you share global variables across modules?
+Is there a tool to help find bugs or perform the static analysis?
+How can you perform unit testing in Python?
