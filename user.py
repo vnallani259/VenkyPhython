@@ -1,0 +1,7 @@
+print('Please enter an integer value:')
+x=input()
+print('Please enter another integer value:')
+y=input()
+x=int(x)
+y=int(y)
+print(x+y)
