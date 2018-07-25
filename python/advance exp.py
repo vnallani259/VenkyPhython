@@ -5,7 +5,7 @@ class cust:
         self.cname=cname
         self.cadd=cadd
         self.cacno=cacno
-        self.cbal=cabl
+        self.cbal=cbal
     def deposite(self,damt):
         self.cbal=self.cbal+damt
     def withdraw(self,wamt):
