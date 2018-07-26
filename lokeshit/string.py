@@ -1,7 +1,7 @@
 x='venky nallani'
 print(x)
-print([2])
-print([-2])
+print(x[2])
+print(xsss[-2])
 print(x[2:8])
 z='python'
 print(z)
